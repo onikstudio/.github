@@ -6,7 +6,7 @@ Desarrollo de software, páginas web y sistemas a medida para negocios.
 
 <p align="center">
 <a href="https://onikstudio.site">🌐 Sitio web</a> •
-<a href="https://www.linkedin.com">💼 LinkedIn</a>
+<a href="https://www.linkedin.com/company/onik-studio">💼 LinkedIn</a>
 </p>
 
 ---
