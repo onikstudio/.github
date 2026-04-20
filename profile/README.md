@@ -1,4 +1,4 @@
-<h1 align="center">Onik Studio 🚀</h1>
+<h1 align="center">Onik Studio</h1>
 
 <p align="center">
 Desarrollo de software, páginas web y sistemas a medida para negocios.
