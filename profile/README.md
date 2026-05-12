@@ -5,8 +5,8 @@ Desarrollo de software, páginas web y sistemas a medida para negocios.
 </p>
 
 <p align="center">
-<a href="https://onikstudio.site">🌐 Sitio web</a> •
-<a href="https://www.linkedin.com/company/onik-studio">💼 LinkedIn</a>
+<a href="https://velor.site">🌐 Sitio web</a> •
+<a href="https://www.linkedin.com/company/velor-studio">💼 LinkedIn</a>
 </p>
 
 ---
