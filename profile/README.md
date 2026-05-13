@@ -52,8 +52,7 @@ Próximamente estaremos compartiendo proyectos reales y demos.
 
 👉 Escríbenos y llevemos tu idea al siguiente nivel.
 
-🌐 https://onikstudio.site  
-
+hola@verol.site
 ---
 
 <p align="center">
