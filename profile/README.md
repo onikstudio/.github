@@ -1,4 +1,4 @@
-<h1 align="center">Onik Studio</h1>
+<h1 align="center">Velor</h1>
 
 <p align="center">
 Desarrollo de software, páginas web y sistemas a medida para negocios.
@@ -13,7 +13,7 @@ Desarrollo de software, páginas web y sistemas a medida para negocios.
 
 ## 💻 ¿Qué hacemos?
 
-En **Onik Studio** ayudamos a negocios a digitalizarse mediante soluciones modernas, escalables y enfocadas en resultados.
+En **Verol** ayudamos a negocios a digitalizarse mediante soluciones modernas, escalables y enfocadas en resultados.
 
 ✔️ Páginas web profesionales  
 ✔️ Sistemas administrativos  
